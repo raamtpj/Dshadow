@@ -1,0 +1,4 @@
+teachable-machine
+opencv-python
+easyocr
+pyserial
