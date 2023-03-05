@@ -13,8 +13,6 @@
 
 1. Recognises people known by the user
 2. Reads Image script
-3. Senses objects
-4. Alerts during emergency
 
 # 🤖 How to use
 

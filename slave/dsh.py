@@ -60,8 +60,6 @@ while True:
     elif cmd == "IMG RD":
         get_image()
         read_image()
-    elif cmd == "OBJ SNS":
-        port.write("Not yet Implemented".encode())
     elif cmd == "EXIT":
         print("Program Halted by Micro:bit")
         break

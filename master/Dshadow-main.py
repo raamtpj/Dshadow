@@ -4,7 +4,10 @@ from speech import say
 face_names = {
     "0": "Raam",
     "1": "Harish",
-    "2": "Venkatesan"
+    "2": "Venkatesan",
+    "3": "Abdul Kalam sir",
+    "4": "Bill Gates sir",
+    "5": "MS Dhoni"
 }
 
 def speak(txt):
